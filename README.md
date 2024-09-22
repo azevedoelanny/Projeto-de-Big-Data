@@ -21,8 +21,8 @@ Siga as etapas abaixo para configurar e executar o projeto localmente.
 ### Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd <pasta-do-projeto>
+git clone https://github.com/azevedoelanny/Projeto-de-Big-Data
+cd Projeto-de-Big-Data
 ```
 
 ### Criar e ativar um ambiente virtual (opcional, mas recomendado)
