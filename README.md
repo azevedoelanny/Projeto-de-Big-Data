@@ -51,14 +51,12 @@ pip install -r requirements.txt
 Após instalar as dependências, você pode iniciar a aplicação com o seguinte comando:
 
 ```bash
-python <nome_do_arquivo_principal>.py
+python analise_abc.py
 ```
-
-Substitua `<nome_do_arquivo_principal>` pelo nome do arquivo Python principal do projeto.
 
 ### Acessar o aplicativo
 
-Após iniciar o servidor, você poderá acessar o aplicativo no seu navegador web no seguinte endereço:
+Após executar o arquivo, você poderá acessar o aplicativo no seu navegador web no seguinte endereço:
 
 ```
 http://localhost:8050
