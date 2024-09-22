@@ -1,0 +1,81 @@
+ID;Categoria;Produto;Marca
+1;Alimentos Básicos;Arroz branco;Tio João
+2;Alimentos Básicos;Arroz integral;Camil
+3;Alimentos Básicos;Feijão preto;Kicaldo
+4;Alimentos Básicos;Feijão carioca;Caldo Bom
+5;Alimentos Básicos;Lentilha;Camil
+6;Alimentos Básicos;Grão de bico;Caldo Bom
+7;Alimentos Básicos;Farinha de trigo;Dona Benta
+8;Alimentos Básicos;Farinha de mandioca;Rosa Branca
+9;Alimentos Básicos;Fubá;Yoki
+10;Alimentos Básicos;Macarrão espaguete;Barilla
+11;Alimentos Básicos;Macarrão penne;Barilla
+12;Alimentos Básicos;Macarrão parafuso;Renata
+13;Alimentos Básicos;Macarrão instantâneo;Nissin
+14;Alimentos Básicos;Farofa pronta;Yoki
+15;Alimentos Básicos;Polenta instantânea;Sinhá
+16;Alimentos Básicos;Aveia em flocos;Quaker
+17;Alimentos Básicos;Farinha de milho;Yoki
+18;Alimentos Básicos;Trigo para quibe;Hikari
+19;Alimentos Básicos;Tapioca;Yoki
+20;Alimentos Básicos;Cuscuz de milho;Vitamilho
+21;Pães e Massas;Pão francês;Local
+22;Pães e Massas;Pão de forma integral;Pullman
+23;Pães e Massas;Pão de forma tradicional;Bauducco
+24;Pães e Massas;Pão sírio;Panko
+25;Pães e Massas;Pão de hambúrguer;Taeq
+26;Pães e Massas;Pão de cachorro-quente;Bauducco
+27;Pães e Massas;Baguete;Pão de Ouro
+28;Pães e Massas;Massa de pizza;Pullman
+29;Pães e Massas;Massa para pastel;Taeq
+30;Pães e Massas;Massa folhada;Local
+31;Laticínios;Leite integral;Italac
+32;Laticínios;Leite desnatado;Piracanjuba
+33;Laticínios;Leite semidesnatado;Itambé
+34;Laticínios;Leite sem lactose;Parmalat
+35;Laticínios;Leite condensado;Itambé
+36;Laticínios;Creme de leite;Piracanjuba
+37;Laticínios;Manteiga;Verde Campo
+38;Laticínios;Margarina;Piracanjuba
+39;Laticínios;Iogurte natural;Italac
+40;Laticínios;Requeijão;Piracanjuba
+41;Carnes e Frios;Carne moída;Friboi
+42;Carnes e Frios;Filé de frango;Swift
+43;Carnes e Frios;Coxa de frango;Sadia
+44;Carnes e Frios;Asa de frango;Perdigão
+45;Carnes e Frios;Peito de frango;Sadia
+46;Carnes e Frios;Costela bovina;Perdigão
+47;Carnes e Frios;Picanha;Seara
+48;Carnes e Frios;Alcatra;Frimesa
+49;Carnes e Frios;Linguiça toscana;Sadia
+50;Carnes e Frios;Linguiça calabresa;Perdigão
+51;Congelados;Frango empanado;Sadia
+52;Congelados;Peixe empanado;Perdigão
+53;Congelados;Hambúrguer congelado;Sadia
+54;Congelados;Lasanha congelada;Perdigão
+55;Congelados;Pizza congelada;Sadia
+56;Hortifruti;Banana;Local
+57;Hortifruti;Maçã;Fazenda
+58;Hortifruti;Laranja;Turma da Mônica
+59;Hortifruti;Manga;Local
+60;Hortifruti;Abacate;Fazenda
+61;Bebidas;Água mineral;Crystal
+62;Bebidas;Água com gás;Schin
+63;Bebidas;Refrigerante de cola;Coca-Cola
+64;Bebidas;Refrigerante de guaraná;Pepsi
+65;Bebidas;Suco de laranja;Del Valle
+66;Bebidas;Suco de uva;Maratá
+67;Bebidas;Água de coco;Do Bem
+68;Bebidas;Chá mate;Matte Leão
+69;Bebidas;Café solúvel;Pilão
+70;Bebidas;Cerveja pilsen;Brahma
+71;Produtos de Limpeza;Sabão em pó;Omo
+72;Produtos de Limpeza;Sabão líquido;Brilhante
+73;Produtos de Limpeza;Amaciante de roupas;Comfort
+74;Produtos de Limpeza;Desinfetante;Downy
+75;Produtos de Limpeza;Álcool em gel;Assolan
+76;Higiene Pessoal;Creme dental;Colgate
+77;Higiene Pessoal;Escova de dentes;Oral-B
+78;Higiene Pessoal;Fio dental;Colgate
+79;Higiene Pessoal;Sabonete líquido;Oral-B
+80;Higiene Pessoal;Shampoo;Pantene
